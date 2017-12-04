@@ -1,4 +1,4 @@
-# TCP
+# TCP connect program Project
 This is group project, it's for Data Communication and Networking class
 
 Basic on C
